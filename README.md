@@ -1,2 +1,3 @@
-# look-up-tables
-Interactive plotting of MPIthe look-up tables from Schedule 6 of the Climate Change (Forestry Sector) Regulations 2008
+#look-up-tables
+
+Interactive plotting of MPI's look-up tables for forest carbon.
