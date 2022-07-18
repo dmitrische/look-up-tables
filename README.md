@@ -2,4 +2,9 @@
 
 # look-up-tables
 
-Interactive plotting of MPI's look-up tables for forest carbon.
+Interactive plotting and analysis of MPI's look-up tables for forest carbon.
+
+Directory [tables-data](./tables-data) contains the four tables from [Schedule 6](https://www.legislation.govt.nz/regulation/public/2008/0355/latest/DLM1633733.html) of the New Zealand Climate Change (Forestry Sector) Regulations 2008.
+
+Notebook [iplot-mpi-tables.ipynb](./iplot-mpi-tables.ipynb) contains all the analysis and plotting, and it can loaded using Binder.
+
